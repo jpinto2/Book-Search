@@ -10,8 +10,8 @@ export const GET_ME = gql`
           bookId
           authors
           description
-          image
           title
+          image
           link
         }
       }
